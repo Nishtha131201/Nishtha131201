@@ -40,7 +40,7 @@
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/nishRathod.github.io-5849be?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nrathod1312/"><img src="https://img.shields.io/badge/Nishtha Rathod-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nishthaioc@gamil.com"><img src="https://img.shields.io/badge/Nishtha Rathod-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:nishthaioc@gmail.com"><img src="https://img.shields.io/badge/Nishtha Rathod-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 
