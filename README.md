@@ -29,7 +29,7 @@
 ## My Stats
 <p>
 <a href="https://github.com/Nishtha131201">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishtha131201&show_icons=true&theme=synthwave&count_private=true" />
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nishtha131201&theme=synthwave&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
