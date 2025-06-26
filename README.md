@@ -1,48 +1,42 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey, I'm Nishtha 👋
 
-## I'm Nishtha.
+I'm a software and data engineer who believes that clean code, thoughtful architecture, and the right bit of curiosity can move mountains 🏔️.
 
-### 💻 &nbsp;About Me 
+---
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Chemical Engineering at IIT Guwahati.
+### 💼 What I Do
 
+I design and build systems that solve real problems—whether it’s streamlining data workflows, automating business processes, or crafting reliable backend services. My toolbox includes **Java**, **Python**, **React**, **AWS**, **Docker**, and a growing love for distributed systems.
 
-### 🛠 &nbsp;Tech Stack
+I enjoy bridging structured data with user-focused design, and turning complex challenges into simple, scalable solutions.
 
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+---
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+### 🛠️ Current Interests
 
-## My Stats
-<p>
-<a href="https://github.com/Nishtha131201">
+- Scalable system design & cloud infrastructure  
+- Full-stack development with a backend focus  
+- Data pipelines, ETL automation, and dashboarding  
+- Writing code that's as readable as it is reliable  
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nishtha131201&theme=synthwave&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+---
 
+### 🌱 Outside the Terminal...
 
-##  🤝🏻 &nbsp;Connect with Me
+When I’m not coding, you’ll probably find me:
 
+🗻 **On a hike** – always chasing fresh air and panoramic views  
+✈️ **Exploring new places** – spontaneous trips keep life interesting  
+🎥 **Watching anime** – from deep philosophical plots to chaotic battle arcs  
+🐈 **Hanging out with my two cats** – expert bug chasers and laptop blockers  
+🍵 **Sipping tea** – masala, green, herbal... if it's warm and calming, I'm in  
 
+---
 
-<p align="center"><a href="https://www.linkedin.com/in/nrathod1312/"><img src="https://img.shields.io/badge/Nishtha Rathod-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nishthaioc@gmail.com"><img src="https://img.shields.io/badge/Nishtha Rathod-D14836?style=flat-square&logo=gmail&logoColor=white"/></a></p>
+### 🔗 Let’s Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishtha131201)  
+- 💻 [GitHub](https://github.com/Nishtha131201)  
+- 📫 nishtharathod.work@gmail.com  
 
-
-
-
+Thanks for dropping by! I'm always up for a chat about tech, travel, or your favorite anime 🌸
